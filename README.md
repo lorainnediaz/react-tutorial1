@@ -19,7 +19,3 @@ npm run dev
 - CSS styling in React
 - Git version control
 ' > README.md
-
-git add README.md
-git commit -m 'Add comprehensive README documentation'
-git push origin main
