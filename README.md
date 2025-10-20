@@ -1,4 +1,4 @@
-echo '# React Tutorial Project
+# React Tutorial Project
 
 My first React application following the official tutorial.
 
