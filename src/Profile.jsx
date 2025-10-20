@@ -14,7 +14,7 @@ function App() {
               alt="My profile"
               className="profile-pic"
           />
-          <h2>Lorainne Diaz</h2>
+          <h2>meow meow</h2>
           <p className="title">Student • BS Computer Science</p>
         </div>
 
