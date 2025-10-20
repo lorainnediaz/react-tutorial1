@@ -1,27 +1,25 @@
-# React Tutorial Project
+echo '# React Tutorial Project
 
-A beginner-friendly React application built while following the official React tutorial.
+My first React application following the official tutorial.
 
 ## Technologies Used
 - React 18
 - Vite
 - CSS3
-- Git & GitHub
 
-## What I learned
-
-- JSX syntax and component creation
-- Component composition and props
-- CSS styling in React
-- Git version control
-  
 ## How to Run
 ```bash
-# Install dependencies
 npm install
-
-# Start the development server
 npm run dev
+```
 
+## What I Learned
+- JSX syntax and components
+- Component composition
+- CSS styling in React
+- Git version control
+' > README.md
 
-
+git add README.md
+git commit -m 'Add comprehensive README documentation'
+git push origin main
